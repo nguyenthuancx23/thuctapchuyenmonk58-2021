@@ -1,3 +1,13 @@
+## THỰC TẬP CHUYÊN MÔN K58 HỌC GHÉP LỚP K59
+
+## Nguyễn Hữu Thuận 
+## 5851071069
+
+## Tìm hiểu React Redux làm một số game đơn giản.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
