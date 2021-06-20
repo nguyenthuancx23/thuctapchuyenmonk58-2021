@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "Pony";
+    src: url("./Pony.ttf");
+}
+
+#TrangChu {
+    font-family: "Pony";
+    background-color: rgb(226, 191, 139);
+    min-height: 1500px;
+    text-align: center;
+}
+
+#TrangChu h3,
+#TrangChu h1,
+#TrangChu h2 {
+    font-family: "Pony";
+}
+
+#optionGame {
+    display: flex;
+    font-size: 30px;
+    /* border-radius: 30%; */
+}
+.option button {
+    border-radius: 10px;
+    /* text-decoration: none; */
+    
+}
+.option button .abc {
+    /* border-radius: 10px; */
+    text-decoration: none;
+    
+}
+
+.option button .abc:hover {
+    color: black;
+    
+}
+.option button:hover {
+    text-decoration: none;
+    background-color: rgb(104, 94, 80);;
+}
